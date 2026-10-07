@@ -1,0 +1,8 @@
+# Raw data (too large for GitHub - see data/README.md)
+data/*.csv
+*.duckdb
+
+# Python
+.venv/
+__pycache__/
+.DS_Store

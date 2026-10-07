@@ -1,0 +1,46 @@
+role,skill,pct_of_postings,avg_salary,salary_premium,verdict,optimal_rank
+Business Analyst,python,16.5,104277.0,13206.0,pays above role average,1
+Business Analyst,tableau,19.0,98794.0,7723.0,pays above role average,2
+Business Analyst,sql,35.3,95292.0,4221.0,pays above role average,3
+Business Analyst,power bi,18.8,92059.0,988.0,pays above role average,4
+Business Analyst,excel,34.9,87212.0,-3859.0,pays below role average,5
+Data Analyst,python,29.2,101512.0,7636.0,pays above role average,1
+Data Analyst,r,15.3,98708.0,4832.0,pays above role average,2
+Data Analyst,tableau,23.7,97978.0,4102.0,pays above role average,3
+Data Analyst,sql,47.1,96435.0,2560.0,pays above role average,4
+Data Analyst,power bi,20.1,92324.0,-1552.0,pays below role average,5
+Data Engineer,scala,15.4,143161.0,12894.0,pays above role average,1
+Data Engineer,kafka,15.6,143086.0,12819.0,pays above role average,2
+Data Engineer,snowflake,14.3,137426.0,7159.0,pays above role average,3
+Data Engineer,java,19.1,137307.0,7041.0,pays above role average,4
+Data Engineer,airflow,13.7,137262.0,6995.0,pays above role average,5
+Data Scientist,spark,14.1,144399.0,8469.0,pays above role average,1
+Data Scientist,tensorflow,11.1,143440.0,7510.0,pays above role average,2
+Data Scientist,aws,15.2,138861.0,2932.0,pays above role average,3
+Data Scientist,sql,45.8,138430.0,2501.0,pays above role average,4
+Data Scientist,python,66.0,138049.0,2120.0,pays above role average,5
+Machine Learning Engineer,spark,19.3,138904.0,12118.0,pays above role average,1
+Machine Learning Engineer,java,16.7,137184.0,10398.0,pays above role average,2
+Machine Learning Engineer,sql,24.8,136859.0,10073.0,pays above role average,3
+Machine Learning Engineer,gcp,12.0,134617.0,7831.0,pays above role average,4
+Machine Learning Engineer,kubernetes,16.4,133817.0,7032.0,pays above role average,5
+Senior Data Analyst,python,37.8,119402.0,5298.0,pays above role average,1
+Senior Data Analyst,r,21.3,117259.0,3155.0,pays above role average,2
+Senior Data Analyst,sql,60.6,115025.0,921.0,pays above role average,3
+Senior Data Analyst,tableau,34.2,113467.0,-637.0,pays below role average,4
+Senior Data Analyst,power bi,20.5,109139.0,-4965.0,pays below role average,5
+Senior Data Engineer,redshift,15.1,156521.0,10654.0,pays above role average,1
+Senior Data Engineer,kafka,21.8,154923.0,9057.0,pays above role average,2
+Senior Data Engineer,nosql,15.6,154714.0,8847.0,pays above role average,3
+Senior Data Engineer,scala,19.4,153975.0,8108.0,pays above role average,4
+Senior Data Engineer,hadoop,17.6,153628.0,7761.0,pays above role average,5
+Senior Data Scientist,spark,17.9,164094.0,10044.0,pays above role average,1
+Senior Data Scientist,pytorch,11.8,159627.0,5577.0,pays above role average,2
+Senior Data Scientist,tensorflow,13.7,156255.0,2205.0,pays above role average,3
+Senior Data Scientist,python,70.1,154960.0,910.0,pays above role average,4
+Senior Data Scientist,sql,50.3,154285.0,235.0,pays above role average,5
+Software Engineer,aws,23.3,120502.0,7725.0,pays above role average,1
+Software Engineer,python,34.0,118825.0,6047.0,pays above role average,2
+Software Engineer,javascript,11.2,114526.0,1748.0,pays above role average,3
+Software Engineer,azure,15.8,113856.0,1078.0,pays above role average,4
+Software Engineer,java,22.0,113141.0,363.0,pays above role average,5

@@ -1,0 +1,91 @@
+role,pay_rank,skill,avg_salary,salaried_postings
+Business Analyst,1,snowflake,112543.0,34
+Business Analyst,2,r,105969.0,73
+Business Analyst,3,go,105701.0,33
+Business Analyst,4,python,104277.0,143
+Business Analyst,5,sas,100308.0,74
+Business Analyst,6,tableau,98794.0,212
+Business Analyst,7,sql,95292.0,312
+Business Analyst,8,oracle,93139.0,37
+Business Analyst,9,flow,92445.0,51
+Business Analyst,10,power bi,92059.0,139
+Data Analyst,1,kafka,129999.0,40
+Data Analyst,2,airflow,116387.0,71
+Data Analyst,3,scala,115480.0,59
+Data Analyst,4,linux,114883.0,58
+Data Analyst,5,confluence,114153.0,62
+Data Analyst,6,pyspark,114058.0,49
+Data Analyst,7,mongodb,113608.0,52
+Data Analyst,8,gcp,113065.0,78
+Data Analyst,9,spark,113002.0,187
+Data Analyst,10,databricks,112881.0,102
+Data Engineer,1,mongo,179403.0,120
+Data Engineer,2,cassandra,150255.0,269
+Data Engineer,3,perl,145540.0,39
+Data Engineer,4,angular,143319.0,42
+Data Engineer,5,scala,143161.0,794
+Data Engineer,6,kafka,143086.0,872
+Data Engineer,7,gdpr,142369.0,38
+Data Engineer,8,shell,141725.0,365
+Data Engineer,9,numpy,141605.0,59
+Data Engineer,10,atlassian,140644.0,33
+Data Scientist,1,neo4j,163971.0,32
+Data Scientist,2,airflow,155878.0,144
+Data Scientist,3,bigquery,149292.0,135
+Data Scientist,4,express,148333.0,89
+Data Scientist,5,looker,147538.0,186
+Data Scientist,6,go,147466.0,316
+Data Scientist,7,pytorch,145989.0,564
+Data Scientist,8,scala,145056.0,381
+Data Scientist,9,spark,144399.0,946
+Data Scientist,10,tensorflow,143440.0,641
+Machine Learning Engineer,1,scala,157451.0,40
+Machine Learning Engineer,2,airflow,144821.0,54
+Machine Learning Engineer,3,hadoop,139614.0,40
+Machine Learning Engineer,4,spark,138904.0,113
+Machine Learning Engineer,5,java,137184.0,106
+Machine Learning Engineer,6,sql,136859.0,112
+Machine Learning Engineer,7,gcp,134617.0,58
+Machine Learning Engineer,8,kubernetes,133817.0,89
+Machine Learning Engineer,9,tensorflow,133798.0,195
+Machine Learning Engineer,10,mongodb,133549.0,30
+Senior Data Analyst,1,spark,132649.0,44
+Senior Data Analyst,2,aws,122668.0,81
+Senior Data Analyst,3,go,121705.0,73
+Senior Data Analyst,4,looker,121147.0,130
+Senior Data Analyst,5,databricks,120659.0,36
+Senior Data Analyst,6,python,119402.0,464
+Senior Data Analyst,7,hadoop,119348.0,45
+Senior Data Analyst,8,azure,119279.0,65
+Senior Data Analyst,9,r,117259.0,264
+Senior Data Analyst,10,redshift,116238.0,46
+Senior Data Engineer,1,mongo,172808.0,119
+Senior Data Engineer,2,cassandra,167398.0,163
+Senior Data Engineer,3,shell,162862.0,204
+Senior Data Engineer,4,mysql,158864.0,204
+Senior Data Engineer,5,c,158155.0,35
+Senior Data Engineer,6,redis,157461.0,34
+Senior Data Engineer,7,redshift,156521.0,396
+Senior Data Engineer,8,kafka,154923.0,447
+Senior Data Engineer,9,nosql,154714.0,346
+Senior Data Engineer,10,c++,154624.0,39
+Senior Data Scientist,1,matplotlib,168607.0,54
+Senior Data Scientist,2,go,168254.0,144
+Senior Data Scientist,3,spark,164094.0,345
+Senior Data Scientist,4,airflow,163440.0,97
+Senior Data Scientist,5,jupyter,163059.0,48
+Senior Data Scientist,6,linux,161967.0,35
+Senior Data Scientist,7,keras,161855.0,64
+Senior Data Scientist,8,c++,160653.0,60
+Senior Data Scientist,9,matlab,160535.0,45
+Senior Data Scientist,10,pytorch,159627.0,208
+Software Engineer,1,go,142748.0,64
+Software Engineer,2,react,130953.0,39
+Software Engineer,3,mongodb,129566.0,40
+Software Engineer,4,c++,128525.0,48
+Software Engineer,5,kafka,127329.0,48
+Software Engineer,6,hadoop,121938.0,37
+Software Engineer,7,aws,120502.0,123
+Software Engineer,8,python,118825.0,204
+Software Engineer,9,spark,115754.0,69
+Software Engineer,10,scala,115009.0,36

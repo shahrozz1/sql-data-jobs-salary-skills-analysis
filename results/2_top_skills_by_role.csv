@@ -1,0 +1,101 @@
+role,demand_rank,skill,postings_with_skill,pct_of_postings
+Business Analyst,1,sql,17372,35.3
+Business Analyst,2,excel,17134,34.9
+Business Analyst,3,tableau,9324,19.0
+Business Analyst,4,power bi,9251,18.8
+Business Analyst,5,python,8097,16.5
+Business Analyst,6,powerpoint,4591,9.3
+Business Analyst,7,r,4035,8.2
+Business Analyst,8,word,3675,7.5
+Business Analyst,9,sap,3651,7.4
+Business Analyst,10,azure,2538,5.2
+Cloud Engineer,1,python,3126,25.3
+Cloud Engineer,2,aws,3081,25.0
+Cloud Engineer,3,azure,2951,23.9
+Cloud Engineer,4,sql,2229,18.1
+Cloud Engineer,5,linux,1637,13.3
+Cloud Engineer,6,terraform,1605,13.0
+Cloud Engineer,7,kubernetes,1552,12.6
+Cloud Engineer,8,java,1225,9.9
+Cloud Engineer,9,gcp,1202,9.7
+Cloud Engineer,10,docker,1152,9.3
+Data Analyst,1,sql,92628,47.1
+Data Analyst,2,excel,67031,34.1
+Data Analyst,3,python,57326,29.2
+Data Analyst,4,tableau,46554,23.7
+Data Analyst,5,power bi,39468,20.1
+Data Analyst,6,r,30075,15.3
+Data Analyst,7,sas,14034,7.1
+Data Analyst,8,powerpoint,13848,7.0
+Data Analyst,9,word,13591,6.9
+Data Analyst,10,sap,11297,5.7
+Data Engineer,1,sql,113375,60.7
+Data Engineer,2,python,108265,58.0
+Data Engineer,3,aws,62174,33.3
+Data Engineer,4,azure,60823,32.6
+Data Engineer,5,spark,53789,28.8
+Data Engineer,6,java,35642,19.1
+Data Engineer,7,kafka,29163,15.6
+Data Engineer,8,hadoop,28883,15.5
+Data Engineer,9,scala,28791,15.4
+Data Engineer,10,databricks,27532,14.7
+Data Scientist,1,python,114016,66.0
+Data Scientist,2,sql,79174,45.8
+Data Scientist,3,r,59754,34.6
+Data Scientist,4,tableau,29513,17.1
+Data Scientist,5,aws,26311,15.2
+Data Scientist,6,spark,24353,14.1
+Data Scientist,7,azure,21698,12.6
+Data Scientist,8,tensorflow,19193,11.1
+Data Scientist,9,excel,17601,10.2
+Data Scientist,10,java,16314,9.4
+Machine Learning Engineer,1,python,9685,68.7
+Machine Learning Engineer,2,pytorch,4389,31.1
+Machine Learning Engineer,3,tensorflow,4307,30.5
+Machine Learning Engineer,4,aws,3780,26.8
+Machine Learning Engineer,5,sql,3497,24.8
+Machine Learning Engineer,6,azure,2732,19.4
+Machine Learning Engineer,7,spark,2717,19.3
+Machine Learning Engineer,8,docker,2672,18.9
+Machine Learning Engineer,9,java,2349,16.7
+Machine Learning Engineer,10,kubernetes,2315,16.4
+Senior Data Analyst,1,sql,17752,60.6
+Senior Data Analyst,2,python,11083,37.8
+Senior Data Analyst,3,tableau,10015,34.2
+Senior Data Analyst,4,excel,8317,28.4
+Senior Data Analyst,5,r,6252,21.3
+Senior Data Analyst,6,power bi,6014,20.5
+Senior Data Analyst,7,sas,2767,9.4
+Senior Data Analyst,8,azure,2279,7.8
+Senior Data Analyst,9,powerpoint,2156,7.4
+Senior Data Analyst,10,aws,2134,7.3
+Senior Data Engineer,1,python,28980,64.8
+Senior Data Engineer,2,sql,28687,64.2
+Senior Data Engineer,3,aws,19404,43.4
+Senior Data Engineer,4,azure,16231,36.3
+Senior Data Engineer,5,spark,16116,36.1
+Senior Data Engineer,6,java,10172,22.8
+Senior Data Engineer,7,kafka,9727,21.8
+Senior Data Engineer,8,snowflake,9140,20.5
+Senior Data Engineer,9,airflow,8723,19.5
+Senior Data Engineer,10,scala,8662,19.4
+Senior Data Scientist,1,python,25996,70.1
+Senior Data Scientist,2,sql,18661,50.3
+Senior Data Scientist,3,r,12772,34.4
+Senior Data Scientist,4,aws,7468,20.1
+Senior Data Scientist,5,spark,6638,17.9
+Senior Data Scientist,6,tableau,5959,16.1
+Senior Data Scientist,7,azure,5529,14.9
+Senior Data Scientist,8,tensorflow,5068,13.7
+Senior Data Scientist,9,pytorch,4386,11.8
+Senior Data Scientist,10,pandas,3614,9.7
+Software Engineer,1,python,15289,34.0
+Software Engineer,2,sql,12375,27.5
+Software Engineer,3,aws,10480,23.3
+Software Engineer,4,java,9882,22.0
+Software Engineer,5,azure,7128,15.8
+Software Engineer,6,kubernetes,6635,14.7
+Software Engineer,7,docker,6331,14.1
+Software Engineer,8,linux,5550,12.3
+Software Engineer,9,javascript,5038,11.2
+Software Engineer,10,git,4660,10.4
